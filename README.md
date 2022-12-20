@@ -1,1 +1,1 @@
-Live Site: 
+Live Site: https://stocksappsp.netlify.app/stocks
