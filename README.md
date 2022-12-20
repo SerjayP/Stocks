@@ -1,1 +1,1 @@
-[Live Site](https://stocksappsp.netlify.app/stocks)
+[Live Site](https://stocksappsp.netlify.app/)
